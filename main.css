@@ -1,0 +1,25 @@
+
+
+/*General Seccion */
+
+body {
+    background-color: rgb(61, 61, 61);
+    font-family: "Sans serif", Times, serif;
+}
+h1, h2, h3, h4 {
+    color: white;
+    text-align: center;
+
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    text-align: justify;
+}
+
+/* END */
